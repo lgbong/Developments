@@ -9,15 +9,12 @@ public class HelloJava {
 
 /*
 git init
-git commit -m "lgbong java update"
-git branch -M 'main'
-git remote add origin https://github.com/lgbong/Developments.git
-git push -u origin 'main'
-
-ls
-git commit -m "lgbong java update"
-git branch -M 'main'
 git remote add origin https://github.com/lgbong/Developments.git
 git remote -v
-git push origin main
+
+git add HelloJava.java 
+git commit -m "lgbong java update blabla"
+git branch -M 'main'
+git push -u origin 'main'
+# git push origin main
 */
